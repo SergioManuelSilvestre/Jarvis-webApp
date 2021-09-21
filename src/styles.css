@@ -26,5 +26,6 @@ main > h1 {
 
 .TableContent {
     display: grid;
-    grid-auto-columns: 1fr 1fr
+    grid-template-columns: auto auto;
+    text-align: center;
 }
